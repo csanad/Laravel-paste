@@ -1,20 +1,20 @@
 [
     {
-        "caption": "Preferences: PasteLaravel Settings – Default",
+        "caption": "Preferences: Paste Subdimension Settings – Default",
         "command": "open_file",
         "args": {
             "file": "${packages}/PasteLaravel/PasteLaravel.sublime-settings"
         }
     },
     {
-        "caption": "Preferences: PasteLaravel Settings – User",
+        "caption": "Preferences: Paste Subdimension Settings – User",
         "command": "open_file",
         "args": {
             "file": "${packages}/User/PasteLaravel.sublime-settings"
         }
     },
     {
-        "caption": "Preferences: PasteLaravel Key Bindings – Default",
+        "caption": "Preferences: Paste Subdimension Key Bindings – Default",
         "command": "open_file",
         "args": {
             "file": "${packages}/PasteLaravel/Default (Windows).sublime-keymap",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "caption": "Preferences: PasteLaravel Key Bindings – Default",
+        "caption": "Preferences: Paste Subdimension Key Bindings – Default",
         "command": "open_file",
         "args": {
             "file": "${packages}/PasteLaravel/Default (OSX).sublime-keymap",
@@ -30,7 +30,7 @@
         }
     },
     {
-        "caption": "Preferences: PasteLaravel Key Bindings – Default",
+        "caption": "Preferences: Paste Subdimension Key Bindings – Default",
         "command": "open_file",
         "args": {
             "file": "${packages}/PasteLaravel/Default (Linux).sublime-keymap",
@@ -38,7 +38,7 @@
         }
     },
     {
-        "caption": "Preferences: PasteLaravel Key Bindings – User",
+        "caption": "Preferences: Paste Subdimension Key Bindings – User",
         "command": "open_file",
         "args": {
             "file": "${packages}/User/Default (Windows).sublime-keymap",
@@ -46,7 +46,7 @@
         }
     },
     {
-        "caption": "Preferences: PasteLaravel Key Bindings – User",
+        "caption": "Preferences: Paste Subdimension Key Bindings – User",
         "command": "open_file",
         "args": {
             "file": "${packages}/User/Default (OSX).sublime-keymap",
@@ -54,7 +54,7 @@
         }
     },
     {
-        "caption": "Preferences: PasteLaravel Key Bindings – User",
+        "caption": "Preferences: Paste Subdimension Key Bindings – User",
         "command": "open_file",
         "args": {
             "file": "${packages}/User/Default (Linux).sublime-keymap",
